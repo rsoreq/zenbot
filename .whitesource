@@ -23,7 +23,7 @@
     "packageRules": [
       {
         "datasources": [
-          "npm"
+          "maven", "npm", "pypi"
         ],
         "updateTypes": [
           "patch",
