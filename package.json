@@ -75,7 +75,7 @@
     "lolex": "^6.0.0",
     "mathjs": "^7.0.0",
     "micro-request": "^666.0.10",
-    "mime": "^2.4.6",
+    "mime": "^3.0.0",
     "minimist": "^1.2.5",
     "mock-require": "^3.0.2",
     "moment": "^2.27.0",
