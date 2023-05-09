@@ -20,5 +20,8 @@
       "minVulnerabilityScore": 7,
       "maxVulnerabilityScore": 10
     }
+  },
+  "leastVulnerablePackageSettings": {                
+   "enabled": true
   }
 }
