@@ -49,7 +49,7 @@
     "convnetjs": "0.3.0",
     "counterup": "^1.0.2",
     "css-loader": "^3.6.0",
-    "echarts": "^4.9.0",
+    "echarts": "^5.0.0",
     "ejs": "^3.1.5",
     "exports-loader": "^3.0.0",
     "expose-loader": "^3.0.0",
