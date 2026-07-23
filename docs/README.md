@@ -45,7 +45,7 @@ npm link
 
 ### Ubuntu 16.04 Step-By-Step
 [Video](https://youtu.be/BEhU55W9pBI)
-[Blog Post](https://jaynagpaul.com/algorithmic-crypto-trading?utm_source=zenbot)
+[Blog Post](http://web.archive.org/web/20191212212602/https://jaynagpaul.com/algorithmic-crypto-trading?utm_source=zenbot)
 
 ```
 sudo apt-get update
@@ -162,7 +162,7 @@ zenbot list-strategies
 
 ### Screenshot and example result
 
-Zenbot outputs an HTML graph of each simulation result. In the screenshot below, the pink arrows represent the bot buying (up arrow) and selling (down arrow) as it iterated the historical data of [GDAX](https://gdax.com/) exchange's BTC/USD product.
+Zenbot outputs an HTML graph of each simulation result. In the screenshot below, the pink arrows represent the bot buying (up arrow) and selling (down arrow) as it iterated the historical data of [GDAX](http://web.archive.org/web/20180623120241/https://www.gdax.com/) exchange's BTC/USD product.
 
 ![screenshot](https://cloud.githubusercontent.com/assets/106763/25983930/7e5f9436-369c-11e7-971b-ba2916442eea.png)
 
@@ -619,7 +619,7 @@ From left to right:
 - Asset price in currency (yellow)
 - Percent change of price since last period (red/green)
 - Volume in asset since last period (grey)
-- [RSI](http://stockcharts.com/school/doku.php?id=chart_school:technical_indicators:relative_strength_index_rsi) ANSI graph (red/green)
+- [RSI](http://web.archive.org/web/20190504143936/http://stockcharts.com:80/school/doku.php?id=chart_school:technical_indicators:relative_strength_index_rsi) ANSI graph (red/green)
 - `trend_ema_rate` (red/green, explained below)
 - Current signal or action, including `buy`, `sell`, `buying`, `selling`, `bought`, `sold` and `last_trade_worth` (percent change in the trend direction since last buy/sell)
 - Account balance (asset)
